@@ -6,6 +6,7 @@ Jpylyzer gui allows you to check one jp2 file one at a time, via a gui. If you g
 ## How to use
 ### If you have Python 3 installed
 Just run jypylyzer-gui.py and follow the instructions on the buttons.
+
 1. Select jp2 file
 2. Select or create a folder
 3. jpylyze
@@ -14,6 +15,7 @@ Your output file will be in the folder you selected in step 2.
 
 ### If you don't want to install Python
 Get the binary from bintray.com (see 'Downloads' below) and unzip it. Open it to find jpylyzer-gui.py. Follow the instructions on the buttons.
+
 1. Select jp2 file
 2. Select or create a folder
 3. jpylyze
@@ -23,7 +25,7 @@ Your output file will be in the folder you selected in step 2.
 You need to keep all the other files and directories to make jpylyzer-gui.py work.
 
 ## Limitations
-This gui is created with and will run in Python 3.2. 
+This gui is created with and will run in Python 3.2.
 
 This gui does not take advantage of jpylyzer's:
 * positional arguments
